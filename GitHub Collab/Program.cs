@@ -5,5 +5,6 @@ Console.WriteLine();
 
 BMW Denizsbmw = new BMW();
 
+BMW car = new BMW();
 
 
