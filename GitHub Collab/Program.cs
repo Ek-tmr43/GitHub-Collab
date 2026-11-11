@@ -9,3 +9,5 @@ BMW car = new BMW();
 BMW Denizsbmw = new BMW();
 
 Console.WriteLine("Mikkel er en super god underviser");
+
+BMW Denizsbssssmw = new BMW();
