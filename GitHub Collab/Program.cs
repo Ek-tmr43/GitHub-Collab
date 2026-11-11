@@ -8,8 +8,6 @@ BMW car = new BMW();
 
 BMW Denizsbmw = new BMW();
 
-BMW car1 = new BMW();
+Console.WriteLine("Mikkel er en super god underviser");
 
-BMW car2 = new BMW();
-
-
+BMW Denizsbssssmw = new BMW();
