@@ -10,3 +10,6 @@ BMW Denizsbmw = new BMW();
 
 BMW car1 = new BMW();
 
+BMW car2 = new BMW();
+
+
