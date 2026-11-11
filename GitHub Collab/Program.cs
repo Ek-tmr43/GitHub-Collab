@@ -2,7 +2,3 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine();
-
-
-BMW AndreasesBMW = new BMW();
-
